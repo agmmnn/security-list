@@ -22,6 +22,12 @@
 - [Fuff](https://github.com/ffuf/ffuf): Fast web fuzzer. directory discovery, host discovery, parameter fuzzing. [vid](https://www.youtube.com/watch?v=UDaeS7455mU)
 - wfuzz
 - https://gitlab.com/akihe/radamsa
+-
+
+### Discovery
+
+- https://github.com/lc/gau
+- https://github.com/hakluke/hakrawler
 
 ### Wifi
 
@@ -39,10 +45,15 @@
 - [479k English Words](https://github.com/dwyl/english-words)
 - [FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Most frequent words from OpenSubtitle in different languages.
 - [English Word Frequency](https://www.kaggle.com/datasets/rtatman/english-word-frequency)
+- https://wordlists.assetnote.io/ [cdn](https://wordlists-cdn.assetnote.io/data/manual/)
 
 ## Content Discovery
 
 - https://www.exploit-db.com/google-hacking-database
+-
+- https://dnsdumpster.com/
+- https://www.nmmapper.com/sys/tools/subdomainfinder/
+- https://subdomainfinder.c99.nl/
 
 ## Bounty Websites
 
@@ -81,6 +92,7 @@
 
 - https://www.youtube.com/c/JohnHammond010
 - https://www.youtube.com/c/HackerSploit
+- https://www.youtube.com/c/LiveOverflow/videos
 
 ### Reddit
 
@@ -95,6 +107,7 @@
 - https://labs.detectify.com/
 - https://portswigger.net/research/articles
 - https://www.hackers-arise.com/
+- https://infosecwriteups.com/
 
 ### gooo
 
