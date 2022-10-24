@@ -65,6 +65,9 @@
 
 - https://geekflare.com/ethical-hacker-training-grounds/
 - https://pwnlab.me/en-iyi-ctf-platformlari/
+-
+- https://github.com/juice-shop/juice-shop
+- http://www.itsecgames.com/
 
 ## Vuln Databases
 
