@@ -28,6 +28,10 @@
 
 - https://github.com/lc/gau
 - https://github.com/hakluke/hakrawler
+-
+- Port:
+  - nmap
+  - masscan
 
 ### Wifi
 
@@ -54,6 +58,12 @@
 - https://dnsdumpster.com/
 - https://www.nmmapper.com/sys/tools/subdomainfinder/
 - https://subdomainfinder.c99.nl/
+-
+- https://haveibeenpwned.com/
+- https://haveibeenpwned.com/Passwords
+- https://snusbase.com/
+- https://cybernews.com/personal-data-leak-check/
+- https://breachdirectory.com/search
 
 ## Bounty Websites
 
