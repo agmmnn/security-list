@@ -10,6 +10,7 @@
 - https://github.com/OJ/gobuster Directory/File, DNS and VHost busting
 - https://github.com/projectdiscovery/nuclei
 - nmap kali
+- https://github.com/LandGrey/pydictor
 
 ### Apk
 
@@ -28,7 +29,7 @@
 
 - https://github.com/lc/gau
 - https://github.com/hakluke/hakrawler
--
+- https://github.com/OWASP/Amass
 - Port:
   - nmap
   - masscan
@@ -48,6 +49,7 @@
 - https://github.com/zapstiko/Bug-Bounty
 - [479k English Words](https://github.com/dwyl/english-words)
 - [FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Most frequent words from OpenSubtitle in different languages.
+- https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Turkish
 - [English Word Frequency](https://www.kaggle.com/datasets/rtatman/english-word-frequency)
 - https://wordlists.assetnote.io/ [cdn](https://wordlists-cdn.assetnote.io/data/manual/)
 
