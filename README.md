@@ -11,6 +11,13 @@
 - https://github.com/projectdiscovery/nuclei
 - nmap kali
 - https://github.com/LandGrey/pydictor
+- https://github.com/ORCx41/AtomPePacker [vid](https://www.youtube.com/watch?v=O1K75v041qg
+-
+
+### C2
+
+- https://github.com/HavocFramework/Havoc)
+- Cobalt Strike
 
 ### Apk
 
@@ -100,6 +107,18 @@
 - https://owasp.org/www-community/attacks/
 - https://wiki.owasp.org/index.php/Testing_Directory_traversal/file_include_(OTG-AUTHZ-001)
 - https://owasp.org/www-community/attacks/Path_Traversal
+-
+- https://pentestbook.six2dez.com/recon/public-info-gathering
+
+## leak collection
+
+- https://ddosecrets.com/wiki/Special:AllPages
+- https://pwdquery.xyz/
+- https://breached.to/Announcement-Database-Index
+- leak.sx
+- https://phonebook.cz/
+- https://intelx.io/
+- https://breached.to/
 
 ## Social
 
