@@ -18,6 +18,7 @@
 
 - https://github.com/HavocFramework/Havoc)
 - Cobalt Strike
+- [Awesome Command & Control](https://github.com/tcostam/awesome-command-control)
 
 ### Apk
 
@@ -73,6 +74,7 @@
 - https://snusbase.com/
 - https://cybernews.com/personal-data-leak-check/
 - https://breachdirectory.com/search
+- https://monitor.firefox.com/
 
 ## Bounty Websites
 
@@ -100,7 +102,8 @@
 - https://github.com/Lissy93/personal-security-checklist
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/EdOverflow/bugbounty-cheatsheet
--
+- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
 -
 - https://cheatsheetseries.owasp.org/Glossary.html https://github.com/OWASP/CheatSheetSeries
 - https://owasp.org/www-project-web-security-testing-guide/v42/
@@ -116,8 +119,8 @@
 - https://pwdquery.xyz/
 - https://breached.to/Announcement-Database-Index
 - leak.sx
-- https://phonebook.cz/
 - https://intelx.io/
+- https://phonebook.cz/
 - https://breached.to/
 
 ## Social
