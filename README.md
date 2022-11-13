@@ -57,6 +57,7 @@
 - https://github.com/zapstiko/Bug-Bounty
 - [479k English Words](https://github.com/dwyl/english-words)
 - [FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Most frequent words from OpenSubtitle in different languages.
+- https://github.com/buggysolid/bugbounty-wordlist/tree/main
 - https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Turkish
 - [English Word Frequency](https://www.kaggle.com/datasets/rtatman/english-word-frequency)
 - https://wordlists.assetnote.io/ [cdn](https://wordlists-cdn.assetnote.io/data/manual/)
