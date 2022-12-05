@@ -117,11 +117,13 @@
 
 - https://ddosecrets.com/wiki/Special:AllPages
 - https://pwdquery.xyz/
-- https://breached.to/Announcement-Database-Index
-- leak.sx
+- https://breached.vc/Announcement-Database-Index
+- https://leak.sx/
+- https://breachdirectory.org/
 - https://intelx.io/
 - https://phonebook.cz/
 - https://breached.to/
+- https://t.me/zer0daylab
 
 ## Social
 
