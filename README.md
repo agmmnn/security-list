@@ -42,6 +42,13 @@
   - nmap
   - masscan
 
+### Tools
+
+- https://github.com/nil0x42/duplicut : Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
+- https://github.com/blechschmidt/massdns
+- https://github.com/projectdiscovery/httpx
+- https://offsec.tools/
+
 ### Wifi
 
 - https://github.com/kimocoder/wifite2
