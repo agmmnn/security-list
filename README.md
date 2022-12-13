@@ -15,6 +15,7 @@
 -
 - https://github.com/nil0x42/duplicut : Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - https://github.com/blechschmidt/massdns
+- https://github.com/projectdiscovery/shuffledns
 - https://github.com/projectdiscovery/httpx
 - https://offsec.tools/
 - https://opensourcesecurityindex.io/
