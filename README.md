@@ -111,7 +111,10 @@
 - https://github.com/EdOverflow/bugbounty-cheatsheet
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
--
+* https://github.com/0xJs/RedTeaming_CheatSheet
+* https://github.com/punishell/bbtips
+* https://github.com/InfoSecWarrior/Offensive-Payloads
+
 - https://cheatsheetseries.owasp.org/Glossary.html https://github.com/OWASP/CheatSheetSeries
 - https://owasp.org/www-project-web-security-testing-guide/v42/
 - https://owasp.org/www-community/attacks/
